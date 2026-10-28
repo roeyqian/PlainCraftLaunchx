@@ -1,0 +1,1 @@
+Plain Craft Launchx is a custom build derived from the open-source Plain Craft Launcher Community Edition (PCLCE) project for launching Minecraft: Java Edition.
